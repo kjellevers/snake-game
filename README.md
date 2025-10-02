@@ -115,7 +115,7 @@ This project is licensed under the MIT License - feel free to use and modify as 
 
 - Inspired by the classic Nokia Snake game
 - Built as a learning project to understand game development with Pygame
-- Built with the assistance of Claude using the Sonnet 4.5 modes
+- Built with the assistance of Claude using the Sonnet 4.5 model
 
 ## Author
 
